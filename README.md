@@ -1,2 +1,2 @@
 # WeatherMedia
-Cérate social media for weather and climate
+Create social media for weather and climate
